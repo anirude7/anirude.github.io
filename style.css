@@ -1,0 +1,43 @@
+body{
+	background: rgb(240,240,240);
+	color: rgb(240,240,240);
+	font-size: 20px;
+	font-family: Helvetica;
+}
+h1{
+	font-family: monospace;
+	color: #6A0000;
+	font-weight: lighter;
+	font-size: 25px;
+}
+h2{
+	font-family: Courier;
+	color: #FFBC2C;
+	font-weight: lighter;
+	font-size: 8px;
+}
+
+a {
+	text-decoration: none;
+  color: #86B86B;
+}
+a:hover {
+  text-decoration: none;
+  color: #FFBC2C;
+}
+#banner{
+	text-align: center;
+	background-color: #FFBC2C;
+	padding: 2px;
+}
+.footer{
+	background-color: #86B86B;
+	text-align: right;
+	color: #4d4d4d;
+	font-size: 10px;
+}
+.rightbox{
+	padding: 2px;
+	background-color: orange;
+	align-content: right;
+}
